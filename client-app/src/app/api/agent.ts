@@ -29,7 +29,7 @@ const requests = {
 
 }
 
-const Activites = {
+const Activities = {
     list: () => requests.get<Activity[]>('/activities'),
     details: (id: string) => requests.get<Activity>(`/activities/${id}`),
     create: (activity: Activity) => axios.post<void>('/activities', activity),
@@ -38,7 +38,7 @@ const Activites = {
 }
 
 const agent = {
-    Activites
+    Activities
 }
 
 export default agent;
