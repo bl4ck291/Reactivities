@@ -30,4 +30,4 @@ The application is hosted on [Heroku](https://reactivitiesb.herokuapp.com/)
 # Security check
 You can check the sites security headers on: [securityheaders.com](https://securityheaders.com/?q=https://reactivitiesb.herokuapp.com/&followRedirects=on)
 
-![Security Headers](/.readme/securityHeaders.png)
+![Security Headers](/readme/securityHeaders.png)
