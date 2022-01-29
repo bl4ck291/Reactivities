@@ -16,8 +16,8 @@ Users can follow each other and chat about certain activities.
 
  - ASP .NET Core 6 (C#)
  - React (Thus the name "Reactivities") with Typescript
- - MVC
- - Mediator Pattern
+ - Layered Architecture
+ - CQRS + Mediator Pattern
  - Entity Framework
  - PostgreSQL
  - CRUD
